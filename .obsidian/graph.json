@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#biostatistics",
+      "color": {
+        "a": 1,
+        "rgb": 16768517
+      }
+    },
+    {
+      "query": "tag:#synthetic-biology",
+      "color": {
+        "a": 1,
+        "rgb": 5745507
+      }
+    },
+    {
+      "query": "tag:#bioinformatics",
+      "color": {
+        "a": 1,
+        "rgb": 16271658
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.125,
+  "repelStrength": 7.1,
+  "linkStrength": 0.30091297305257,
+  "linkDistance": 105,
+  "scale": 0.16727669277470208,
+  "close": true
+}

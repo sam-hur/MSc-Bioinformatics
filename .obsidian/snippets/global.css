@@ -1,0 +1,211 @@
+body {
+ --link-external-decoration: none; 
+} 
+
+.file-table, .file-header, .file-body{
+	width: 100%;
+	border-style: hidden; !important
+}
+
+
+.theme-light, .theme-dark { 
+	--link-decoration: none; 
+	--link-decoration-hover: none;
+	--link-external-decoration: none; 
+	--link-external-decoration-hover: none;
+}
+
+/* << EDITING link color INTERNAL >>  */
+.markdown-preview-view .internal-link,
+.cm-s-obsidian span.cm-hmd-internal-link {
+  font-weight: 400;
+  /*color: #31f7b5 !important;*/
+  /*color: #04d972;*/
+  color: #6fbf28;
+  font-weight: bold;
+}
+
+/* << READING link color INTERNAL >>  
+.markdown-preview-view .internal-link {
+  font-weight: 400;
+  /*color: #31f7b5 !important;*/
+  /*color: #04d972;
+  color: #6fbf28;
+  font-weight: bold;
+}*/
+
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[alt*="yt"]{
+	height: 100%;
+	position: relative;
+	bottom: 0;
+}
+
+img[alt*="left-float"]{
+	display: block;
+	float: left;
+	height: 20%;
+	position: relative;
+	margin: 5px 10px;
+}
+
+img[alt*="right-float"]{
+	display: block;
+	float: right;
+	height: 20%;
+	position: relative;
+	margin: 5px 10px;
+}
+
+img[alt*="center-image"]{
+	display: block;
+	float: right;
+	height: 20%;
+	position: relative;
+	margin: 0 10px;
+}
+
+/* Different color for bold*/
+.file-header,
+.cm-strong,
+.markdown-preview-section strong {
+  /*color: #BB29BB !important;
+  color: #6a76e6 !important;*/
+  color: #8b8dfc !important;
+  font-weight: bold !important;
+}
+
+
+/* Different color for italic */
+.file-body, .cm-em, .markdown-preview-section italic {
+    /*color: #6a6ae6;
+	color: #fad46b;*/
+	color: #f0b71a;
+	font-style: italic !important;
+}
+
+.file-body{
+	font-weight: normal;
+}
+
+em{
+	color: #f0b71a;
+}
+
+.tinyimg {
+  display: block;
+  max-width: 100px
+}
+
+.smallimg {
+  display: block;
+  max-width: 300px
+}
+
+.name{
+	color: #d1c5af;
+	font-weight: bold;
+}
+
+.mediumimg {
+  display: block;
+  max-width: 500px
+}
+
+.largeimg {
+  display: block;
+  max-width: 800px
+}  
+a.external-link, a.internal-link, .cm-link .cm-underline {
+	text-decoration: none !important;
+	color: #577ABB;
+	font-size: 1.05em;
+}
+
+.cm-underline a:hover {
+	text-decoration: none !important;
+}
+
+.cm-underline:hover {
+	text-decoration: none !important;
+}
+
+a:hover {
+	text-decoration: none !important;
+}
+
+.cm-s-obsidian, .markdown-preview-view {
+	text-align: justify;
+	hyphens: auto;
+}
+
+.markdown-preview-view em .internal-link,
+.cm-s-obsidian em span.cm-hmd-internal-link
+{
+	color: #f0b71a;
+	font-size: 1em;
+}
+
+/* for background, font color. apply to live preview and reading view */
+/* change the span.cm-tag-[label] and href=[tag] accordingly */
+.cm-s-obsidian span.cm-tag-S,
+.tag[href="#S"] {
+	color: ... ;
+	background-color: ... ;
+}
+
+/* for hash (#) part of the tag in live preview */
+/* use it for padding, and border */
+.cm-s-obsidian span.cm-hashtag-begin {
+	padding-left: ... ;
+	border-top-left-radius: ... ;
+	border-bottom-left-radius: ... ;
+}
+
+/*
+.cm-header-1, .markdown-preview-view h1{
+  color: #f0a224;
+  color: #f0ba62;
+  color: #9a65cf;
+}
+
+
+.cm-header-2, .markdown-preview-view h2{
+  color: #f0a762;
+}
+
+.cm-header-3, .markdown-preview-view h3{
+	color: #f0ba62;
+}
+
+.cm-header-4, .markdown-preview-view h4{
+	color: #f7b77e;
+}
+
+.cm-header-5, .markdown-preview-view h5{
+	color: #f7a57e;
+}
+*/
+
+.f-info {
+	width: 90%;
+	margin: 0 5%;
+	display: flex;
+	flex-grow: 1;
+	justify-content: space-between;
+}
+.fheader {
+	color: #d1c5af;
+	font-weight: bold;
+	font-size: 0.9em;
+}
+.fbody{
+	color: #57ab63;
+	font-weight: bold;
+	font-size: 1.4em;
+}
