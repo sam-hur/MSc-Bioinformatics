@@ -65,9 +65,29 @@
                 "id": "e62d74bd64752a55",
                 "type": "leaf",
                 "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a73b3b4c549878ee",
+                "type": "leaf",
+                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1MB34348 - Introduction to Bioinformatics/Lectures/Functional genome annotation.md",
+                    "file": "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Regression Analysis 1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a914ad8a39f2a44b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Regression Analysis 1.md",
                     "mode": "source",
                     "source": false
                   }
@@ -133,19 +153,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Regression Analysis.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9f31a7908ba48542",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Factor Analysis.md",
+                    "file": "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Regression Analysis 1.md",
                     "mode": "source",
                     "source": false
                   }
@@ -244,7 +252,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1MB34348 - Introduction to Bioinformatics/Lectures/1MB34348 - (L5) Genome Anotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +268,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1MB34348 - Introduction to Bioinformatics/Lectures/1MB34348 - (L5) Genome Anotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,9 +289,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1MB34348 - Introduction to Bioinformatics/Lectures/1MB34348 - (L5) Genome Anotation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -359,8 +363,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -373,11 +376,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d34b4eac0a5f6b16",
+  "active": "e62d74bd64752a55",
   "lastOpenFiles": [
+    "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Regression Analysis 1.md",
+    "Regression Analysis.md",
+    "Factor Analysis.md",
+    "52000 unicode characters.md",
+    "README.md",
+    "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Factor Analysis.md",
+    "1MB34348 - Introduction to Bioinformatics/Lectures/1MB34348 - (L5) Genome Anotation.md",
     "1MB34348 - Introduction to Bioinformatics/Lectures/Functional genome annotation.md",
     "1MB34348 - Introduction to Bioinformatics/Lectures/Polyadenylate tails.md",
-    "1MB34348 - Introduction to Bioinformatics/Lectures/1MB34348 - (L5) Genome Anotation.md",
     "_templates/New File Template - Lectures.md",
     "1MB34348 - Introduction to Bioinformatics/Lectures/Structural genome annotation.md",
     "1MB34348 - Introduction to Bioinformatics/Lectures/exonucleases.md",
@@ -395,18 +404,12 @@
     "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Repeated Measures ANOVA.md",
     "1MB439 - Introduction to Molecular Biology, Genetics and Evolution/Lectures/1MB439 - (L7) Cell Chromosomes and Membranes.md",
     "1MB34348 - Introduction to Bioinformatics/Lectures/Exons & Introns.md",
-    "1MB34348 - Introduction to Bioinformatics/Lectures/Viterbi Algorithm.md",
     "1MB34348 - Introduction to Bioinformatics/Lectures/assets/Pasted image 20230919105455.png",
-    "1MB34348 - Introduction to Bioinformatics/Lectures/1MB34348 - (L1) Introduction.md",
     "1MB34348 - Introduction to Bioinformatics/Lectures/assets/Pasted image 20230919104651.png",
     "1MB34348 - Introduction to Bioinformatics/Lectures/assets/Pasted image 20230919104525.png",
-    "1MB34348 - Introduction to Bioinformatics/Lectures/Expressed sequence tag (EST).md",
     "1MB34348 - Introduction to Bioinformatics/Lectures/assets/Pasted image 20230919103308.png",
     "1MB34348 - Introduction to Bioinformatics/Lectures/assets/Pasted image 20230919102901.png",
     "1MB34348 - Introduction to Bioinformatics/Lectures/assets/Pasted image 20230919102303.png",
-    "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Regression Analysis.md",
-    "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Covariance.md",
-    "1MB465 - Introduction to Statistics for Life Sciences/Definitions/Pearson's (product-moment) correlation.md",
     "1MB465 - Introduction to Statistics for Life Sciences/Lectures/assets/Pasted image 20230915110757.png",
     "1MB34348 - Introduction to Bioinformatics/Lectures/assets",
     "1MB465 - Introduction to Statistics for Life Sciences/Definitions/assets/Pasted image 20230915105949.png",
