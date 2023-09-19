@@ -26,7 +26,7 @@ $$	SEM_\bar{x} = \frac{S}{\sqrt{n}} $$
 
 
 
-- Equal sample sizes, where MSE is the Mean Square Error ([[Regression Analysis]])
+- Equal sample sizes, where MSE is the Mean Square Error ([[Regression Analysis 2]])
 
 $$
 SEM = \sqrt{\frac{MSE}{n}}

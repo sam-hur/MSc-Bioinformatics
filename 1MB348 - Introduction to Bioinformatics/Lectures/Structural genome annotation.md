@@ -11,12 +11,12 @@ Find out where region of interest are in the genome and what they look like.
 
 **It is used for the identification of genomic elements, as well as what portions of the genome do/do not code for genes** (coding region vs. non-coding regions).
 
-This helps narrow down the genome to a smaller region of interest (e.g., through gene mapping) and discover the exact sites of the gene where [[exon]]s are located and are ultimately coded into proteins.
+This helps narrow down the genome to a smaller region of interest (e.g., through gene mapping) and discover the exact sites of the gene where [[Exon]]s are located and are ultimately coded into proteins.
 
 Furthermore, this helps in gene prediction/gene finding (to discover which part of the gene is a coding/non-coding region).
 
-- Coding regions are [[exon]]s
-- Non-coding regions are [[intron]]s and intergenic regions
+- Coding regions are [[Exon]]s
+- Non-coding regions are [[Intron]]s and intergenic regions
 
 
 Consists of:
@@ -47,8 +47,8 @@ ___
 	- Find out regions of similarity between the given number of sequences.
 	- If a region has very high similarity to mRNA or protein production, then it means that the region observed is a protein-coding gene.
 
-3. Find out [[the pribnow box]] and transcription factor binding sites (for prokaryotes only)
+3. Find out [[The Pribnow box]] and transcription factor binding sites (for prokaryotes only)
 4. Find out the [[Open-Reading Frame (ORF)]].
 5. Find out the [[CpG islands]] (in Eukaryotes).
-6. Find out the binding sites for a [[Polyadenylate tails]] (poly(A)tail). This represents the end of a gene/[[exon]].
+6. Find out the binding sites for a [[Polyadenylate tails]] (poly(A)tail). This represents the end of a gene/[[Exon]].
 7. 

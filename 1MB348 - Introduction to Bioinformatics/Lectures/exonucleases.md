@@ -8,7 +8,7 @@ tags:
 
 ## Definition (AI Generated)
 ___
-Exonucleases are a class of enzymes that catalyze the removal of nucleotide units from the ends of DNA or RNA molecules. They are involved in various cellular processes, including DNA repair, RNA degradation, and nucleotide metabolism. Exonucleases cleave nucleotides one at a time from the end of a polynucleotide chain, as opposed to *[[endonucleases]]*, which cleave within the chain.
+Exonucleases are a class of enzymes that catalyze the removal of nucleotide units from the ends of DNA or RNA molecules. They are involved in various cellular processes, including DNA repair, RNA degradation, and nucleotide metabolism. Exonucleases cleave nucleotides one at a time from the end of a polynucleotide chain, as op[[Endonucleases]]ucleases]]*, which cleave within the chain.
 
 Exonucleases can be further categorized into two main types based on the end they act upon:
 

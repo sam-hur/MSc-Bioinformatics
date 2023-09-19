@@ -1,7 +1,7 @@
 ---
 tags:
   - biology
-  - synthetic-biology
+  - molecular-biology
 ---
 
 

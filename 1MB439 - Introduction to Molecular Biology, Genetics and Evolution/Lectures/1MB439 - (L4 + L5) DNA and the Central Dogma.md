@@ -1,7 +1,7 @@
 
 ___
 > Author: <span class="name">Sam Hurenkamp</span>
-> Tags: #Evergreen/Seedling #lecture #synthetic-biology #biology
+> Tags: #Evergreen/Seedling #lecture #molecular-biology #biology
 > Last modified: `$= dv.current().file.mtime`
 
 <div class="f-info">

@@ -7,7 +7,7 @@ tags:
 
 ## Definition
 ___
-Find out what coding regions in a genome or DNA sequence do by inferring biological information to the genomic elements. It is the step taken after [[structural genome annotation]].
+Find out what coding regions in a genome or DNA sequence do by inferring biological information to the genomic elements. It is the step taken after [[Structural genome annotation]].
 
 <u>Includes exploring:</u>
 1. Biochemical function

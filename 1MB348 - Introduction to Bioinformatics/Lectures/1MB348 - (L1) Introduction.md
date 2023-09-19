@@ -7,7 +7,7 @@ ___
 <div class="f-info">
 	<div class="course-code">
 		<span class="fheader"> Course Code </span> <br/>
-		<span class="fbody"> 1MB34348 </span>
+		<span class="fbody"> 1MB348 </span>
 	</div>
 	<div class="discipline">
 		<span class="fheader"> Discipline </span> <br />

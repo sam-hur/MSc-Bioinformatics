@@ -54,5 +54,6 @@
 ### Exams are on [Inspera](https://www.inspera.com/), ~ 6 hours
 
 
-# Lecture 1 - [[1MB34348 - (L1) Introduction]]
-# Lecture 2 - 
+#### Lecture 1 - [[1MB348 - (L1) Introduction]]
+#### Lecture 2 - 
+#### Lecture 5 - [[1MB348 - (L5) Genome Anotation]]

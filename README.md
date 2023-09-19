@@ -24,8 +24,8 @@ File templated are available through the Templater plugin, and can be created us
 
 # Courses
 ## Term 1:
-1MB3438 – Introduction to Bioinformatics
-	[[1MB34348 - Introduction to Bioinformatics/_lectures & key info|_lectures & key info]]
+1MB348 – Introduction to Bioinformatics
+	[[1MB348 - Introduction to Bioinformatics/_lectures & key info|_lectures & key info]]
 1MB465 – Introduction to Statistics for Life Sciences
 	[[1MB465 - Introduction to Statistics for Life Sciences/_lectures & key info|_lectures & key info]]
 1MB439 – Introduction to Molecular Biology, Genetics and Evolution

@@ -9,7 +9,7 @@ tags:
 
 ## Definition
 ___
-- A value obtained from running an [[Analysis of Variance (ANOVA)]] test or [[Regression Analysis]], which is used to find out whether the means are significantly different.
+- A value obtained from running an [[Analysis of Variance (ANOVA)]] test or [[Regression Analysis 2]], which is used to find out whether the means are significantly different.
 - Similar to a t statistic from a [[Students t-test]]. However, where a [[Students t-test]] will tell you if a <u>single</u> variable is statistically significant, an F-test will tell you if a <u>group</u> of variables is jointly significant.
 
 
@@ -34,7 +34,7 @@ ___
 
 ###### (F-statistic) Formula: [[Analysis of Variance (ANOVA)]]
 $$F = \frac{MS_b}{MS_w}$$
-###### (F-statistic) Formula: [[Regression Analysis]]
+###### (F-statistic) Formula: [[Regression Analysis 2]]
 $$
 \sum{y_i - \bar{y}} = \sum{(\hat{y} - \bar{y})^2 + \sum{(y_i - \hat{y})}}
 $$

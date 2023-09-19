@@ -7,7 +7,7 @@ ___
 <div class="f-info">
 	<div class="course-code">
 		<span class="fheader"> Course Code </span> <br/>
-		<span class="fbody"> 1MB34348 </span>
+		<span class="fbody"> 1MB348 </span>
 	</div>
 	<div class="discipline">
 		<span class="fheader"> Discipline </span> <br />
@@ -126,7 +126,7 @@ ___
 
 > Emission probabilities: The probability of observing/deducing something about the state from the observed trait.
 
-[[Viterbi algorithm]] solves in linear time
+[[Viterbi Algorithm]] solves in linear time
 A very important key to the success of HMM!
 
 

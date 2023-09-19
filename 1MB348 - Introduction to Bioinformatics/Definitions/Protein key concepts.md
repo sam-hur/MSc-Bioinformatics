@@ -2,7 +2,7 @@
 
 - [[Regulation of the Proteins and Protein Function]]
 - [[Signalling proteins]]
-- [[Transport proteins]]
+- [[Transport Proteins]]
 - [[Protein Catalysis]]
 - [[Movement Proteins (MPs)]]
 - [[Protein structures]]
